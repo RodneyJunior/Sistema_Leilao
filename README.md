@@ -1,3 +1,3 @@
 # Sistema_Leilao
 Sistema usado no curso Alura
- Teste usando o GitHub para 
+ Teste usando o GitHub para verificar como funciona
